@@ -1,0 +1,12 @@
+.idea
+.gradle
+out
+build
+
+.metadata/
+.classpath
+.project
+.settings/
+bin/
+RemoteSystemsTempFiles/
+
