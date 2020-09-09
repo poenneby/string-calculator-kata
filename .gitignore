@@ -1,12 +1,12 @@
-.idea
-.gradle
-out
-build
+**/.idea
+**/out
+**/build
 
-.metadata/
-.classpath
-.project
-.settings/
-bin/
-RemoteSystemsTempFiles/
-
+**/.metadata/
+**/.classpath
+**/.project
+**/.settings/
+**/bin/
+**/RemoteSystemsTempFiles/
+**/target
+**/*.iml
